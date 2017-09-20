@@ -1,0 +1,127 @@
+{
+    "categorys":{
+        "category1":[
+                {"title":"景点","img":"static/images/category/1-1.png"},
+                {"title":"KTV","img":"static/images/category/1-2.png"},
+                {"title":"购物","img":"static/images/category/1-3.png"},
+                {"title":"生活服务","img":"static/images/category/1-4.png"},
+                {"title":"健身运动","img":"static/images/category/1-5.png"},
+                {"title":"美发","img":"static/images/category/1-6.png"},
+                {"title":"亲子","img":"static/images/category/1-7.png"},
+                {"title":"小吃快餐","img":"static/images/category/1-8.png"}
+            ],
+        "category2":[
+            {"title":"景点","img":"static/images/category/2-1.png"},
+            {"title":"KTV","img":"static/images/category/2-2.png"},
+            {"title":"购物","img":"static/images/category/2-3.png"},
+            {"title":"生活服务","img":"static/images/category/2-4.png"},
+            {"title":"健身运动","img":"static/images/category/2-5.png"},
+            {"title":"美发","img":"static/images/category/2-6.png"},
+            {"title":"亲子","img":"static/images/category/2-7.png"},
+            {"title":"小吃快餐","img":"static/images/category/2-8.png"}
+        ]
+    },
+    "ads":[
+        {   "title": "暑假5折",
+            "img": "@/../static/images/ad/ad-1.png",
+            "link": "http://www.imooc.com/wap/index"
+        },
+        {
+            "title": "特价出国",
+            "img": "@/../static/images/ad/ad-2.png",
+            "link": "http://www.imooc.com/wap/index"
+        },
+        {
+            "title": "亮亮车",
+            "img": "@/../static/images/ad/ad-3.png",
+            "link": "http://www.imooc.com/wap/index"
+        },
+        {
+            "title": "学钢琴",
+            "img": "@/../static/images/ad/ad-4.png",
+            "link": "http://www.imooc.com/wap/index"
+        },
+        {
+            "title": "电影",
+            "img": "@/../static/images/ad/ad-5.png",
+            "link": "http://www.imooc.com/wap/index"
+        },
+        {
+            "title": "旅游热线",
+            "img": "@/../static/images/ad/ad-6.png",
+            "link": "http://www.imooc.com/wap/index"
+        }
+    ],
+    "list":[
+        {
+            "img": "@/../static/images/list/list-1.png",
+            "title": "汉堡大大",
+            "subTitle": "叫我汉堡大大，还你多彩口味",
+            "price":28,
+            "distance": "120m",
+            "mumber":389
+        },
+        {
+            "img": "@/../static/images/list/list-4.png",
+            "title": "婚纱摄影",
+            "subTitle":"免费试穿，拍照留念",
+            "price":2899,
+            "distance": "160m",
+            "mumber":58
+        }
+    ],
+    "listMore":[
+        {
+            "img": "@/../static/images/list/list-2.png",
+            "title": "北京开源饭店",
+            "subTitle": "[望京]自助晚餐",
+            "price":98,
+            "distance":"140m",
+            "mumber": 689
+        },
+        {
+            "img": "@/../static/images/list/list-3.png",
+            "title": "服装定制",
+            "subTitle": "原价xx元，现价xx元，可修改一次",
+            "price":1980,
+            "distance": "160",
+            "mumber":106
+        },
+          {
+            "img": "@/../static/images/list/list-4.png",
+            "title": "婚纱摄影",
+            "subTitle": "免费试穿，拍照留念",
+            "price":2899,
+            "distance": "160",
+            "mumber":58
+        },
+        {
+            "img": "@/../static/images/list/list-5.png",
+            "title": "麻辣串串烧",
+            "subTitle": "双人免费套餐等你抢购",
+            "price": 20,
+            "distance": "160m",
+            "mumber":1426
+        }
+    ],
+    "userList":[
+        {
+            "username":"yyy123",			
+            "password":"123456"			
+        },
+        {
+            "username":"yidongy",			
+            "password":"123456"		
+        },
+        {
+            "username":"ydy123",			
+            "password":"123456"	
+        }
+    ],
+    "orders":[
+        {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
+        {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
+        {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
+        {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"}
+    ]
+}
