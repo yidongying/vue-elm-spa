@@ -26,15 +26,21 @@ vue-cli实现的移动端的单页应用
   首页：
 ![image](https://github.com/yidongying/vue-elm-spa/raw/master/vue-elm-spa/screenshot/首页.png)
 
+
 发现：
 ![image](https://github.com/yidongying/vue-elm-spa/raw/master/vue-elm-spa/screenshot/发现.png)
+
+
 
 订单：
 ![image](https://github.com/yidongying/vue-elm-spa/raw/master/vue-elm-spa/screenshot/订单（pre）.png)
 ![image](https://github.com/yidongying/vue-elm-spa/raw/master/vue-elm-spa/screenshot/order(after).png)
 
+
+
 我的：
 ![image](https://github.com/yidongying/vue-elm-spa/raw/master/vue-elm-spa/screenshot/我的（pre）.png)
+
 
 
 登录注册：
