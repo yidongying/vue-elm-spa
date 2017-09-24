@@ -48,7 +48,7 @@
         }
 
         .ad-item {
-            width:32%;
+             width:30%;height:100%;
             display:flex;
             flex-flow:row;
             margin-left:12px;
