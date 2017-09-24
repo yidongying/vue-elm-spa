@@ -1,5 +1,5 @@
 <template>
-     <div class="hadOrder">
+     <div class="hadOrder box">
             <div class="order-top">
                 <div class="order-title">
                     <h2>我的订单</h2><span class="float-right">全部订单&nbsp;></span>
@@ -33,10 +33,10 @@
                 name: '',
                 bttitle:'附近买过',
                 lists:[
-                    {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
-                    {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
-                    {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
-                    {"img":"@/../static/images/order/order1.jpg","bigtitle":"饿维码","activities":"满25减17，满58减28，满88减42","purse":"买过一次"}
+                     {"img":"@/../static/images/order/order2.jpg","bigtitle":"菜生鲜美食坊","activities":"满25减17，满58减28，满88减42","purse":"买过一次"},
+                     {"img":"@/../static/images/order/order3.jpg","bigtitle":"麻辣食族","activities":"满25减10，新用户下单立减19元","purse":"买过一次"},
+                     {"img":"@/../static/images/order/order4.jpg","bigtitle":"德克汉堡","activities":"满20减5，满48减20，新品抢购","purse":"买过两次"},
+                     {"img":"@/../static/images/order/order5.jpg","bigtitle":"黑龙奶茶","activities":"满30减18，满68减39，折扣特惠","purse":"买过一次"}
                 ]
             }
         },
